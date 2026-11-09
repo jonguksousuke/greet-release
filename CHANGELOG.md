@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-11-09
+
 ### Added
 - `greet()`: `punctuation` 매개변수를 추가하여 마침표 등 문장 부호 지정 지원 (기본값: "!")
 
